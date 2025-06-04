@@ -36,7 +36,7 @@ I'm a DevOps Engineer focused on building scalable, secure, and automated infras
 
 ### 🔗 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/SamBaky23)
+- [LinkedIn](https://www.linkedin.com/in/samuel-aremora)
 - [Blog](https://yourblog.dev) <!-- You can update this if you have one -->
 - 📬 Email: [youremail@example.com](mailto:youremail@example.com)
 
