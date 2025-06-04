@@ -12,7 +12,7 @@ I'm a DevOps Engineer focused on building scalable, secure, and automated infras
 - **CI/CD:** GitHub Actions | Tekton | Jenkins | ArgoCD
 - **Infrastructure as Code:** Terraform | Helm | Pulumi
 - **Scripting:** Bash | PowerShell | Python
-- **Monitoring:** Prometheus | Grafana | Loki | ELK Stack
+- **Monitoring:** Dynatrace | Prometheus | Grafana | Loki | ELK Stack
 - **Other:** Git | GitHub | GitOps | Linux | Vault
 
 ---
@@ -29,14 +29,14 @@ I'm a DevOps Engineer focused on building scalable, secure, and automated infras
 
 ### 📈 GitHub Stats
 
-![SamBakky23's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamBakky23&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamBakky23&layout=compact&theme=radical)
+![SamBakky23's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamBaky23&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamBaky23&layout=compact&theme=radical)
 
 ---
 
 ### 🔗 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/SamBakky23)
+- [LinkedIn](https://www.linkedin.com/in/SamBaky23)
 - [Blog](https://yourblog.dev) <!-- You can update this if you have one -->
 - 📬 Email: [youremail@example.com](mailto:youremail@example.com)
 
